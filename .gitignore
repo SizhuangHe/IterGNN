@@ -1,0 +1,9 @@
+iterGNN/
+data/
+dataset/
+*.sh
+slurm_scripts/
+record/
+plot_data/
+model_dicts/
+.DS_Store
